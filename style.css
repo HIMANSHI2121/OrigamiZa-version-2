@@ -77,9 +77,13 @@ a :visited{
     font-family: magneto;
     padding: 0px;
     margin: 10px;
-    opacity:1.33;
+    opacity:1.53;
 }
 
 .origami:hover{
-    opacity:0.33;
+    background-color:#a6a6a6;
+    text-decoration-line:underline;
+    text-decoration-style:dotted ;
+    opacity:0.53;
+    transform: scale(1.1);
 }
